@@ -18,6 +18,12 @@ Hi There, I'm Dream Garden (rey), I'm a Programmer From indonesia.
 - :cat: Fun fact : I like cats
 - :fire: i just noop proggrammer
 
+![stats](https://github-readme-stats.vercel.app/api?username=HELZRIP&show_icons=true&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=HELZRIP&theme=juicyfresh&no-bg=true&no-frame=false&column=3&")
+ 
+ __________________________________________________________________________________________________________________________________________________________________________________
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Wahyu213" alt="Wahyu213" /></p>
+
 ## Where to find me
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/helzrip)
