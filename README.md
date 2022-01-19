@@ -12,11 +12,11 @@
 
  [![Profile Views](https://gpvc.arturio.dev/sophiashirashaki)](https://github.com/HELZRIP)
 
-Hi There, I'm Dream Garden (rey), A 17 Y.O. Programmer From indonesia.
+Hi There, I'm Dream Garden (rey), I'm a Programmer From indonesia.
 
 - :computer: I'm currently working on a "secret" project.
 - :cat: Fun fact : I like cats
-- :fire: i just noop progamer
+- :fire: i just noop proggrammer
 
 ## Where to find me
 
