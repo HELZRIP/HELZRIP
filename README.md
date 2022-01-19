@@ -15,8 +15,8 @@
 Hi There, I'm Dream Garden (rey), A 17 Y.O. Programmer From indonesia.
 
 - :computer: I'm currently working on a "secret" project.
-- :school: I'm currently learning : cpp, react-native
 - :cat: Fun fact : I like cats
+- :fire: i just noop progamer
 
 ## Where to find me
 
