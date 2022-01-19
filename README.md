@@ -22,7 +22,7 @@ Hi There, I'm Dream Garden (rey), I'm a Programmer From indonesia.
 ![trophy](https://github-profile-trophy.vercel.app/?username=HELZRIP&theme=juicyfresh&no-bg=true&no-frame=false&column=3&")
  
  __________________________________________________________________________________________________________________________________________________________________________________
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Wahyu213" alt="Wahyu213" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HELZRIP" alt="HELZRIP" /></p>
 
 ## Where to find me
 
