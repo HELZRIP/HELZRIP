@@ -2,7 +2,7 @@
 <p align="center">
     <a href="https://HELZRIP.github.io">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=25&width=360&lines=Thanks+For+Come+To+My+Account"
+            src="https://readme-typing-svg.herokuapp.com?size=25&width=360&lines=Thanks+For+Come"
             alt="Dream Garden (rey)"
         />
     </a>
